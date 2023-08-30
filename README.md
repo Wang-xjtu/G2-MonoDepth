@@ -1,6 +1,7 @@
 # G2-MonoDepth
 
 The resposity of the paper "G2-MonoDepth: A General Framework of Generalized Depth Inference from Monocular RGB+X Data" .
+![image](https://github.com/Wang-xjtu/G2-MonoDepth/assets/56944916/92feb1ba-c6f7-43ef-90ac-27d1752444a6)
 
 ## Requirments
 
