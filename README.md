@@ -10,7 +10,7 @@ Pytorch=2.0
 
 ## Training
 
-Training Code is coming soon.
+Training code is coming soon.
 
 ## Testing 
 
