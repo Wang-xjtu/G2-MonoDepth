@@ -16,13 +16,13 @@ Training Code is coming soon.
 
 1. Download and save 
 
-[model]: https://drive.google.com/file/d/1Cp0tRkQE0AAtvtMQcYVnb-cOj9J4CWdZ/view?usp=drive_link
+[model]: https://drive.google.com/file/d/1Cp0tRkQE0AAtvtMQcYVnb-cOj9J4CWdZ/view?usp=drive_link	"our model"
 
  to ./checkpoints/
 
 2. Download and unzip 
 
-[test]: https://drive.google.com/file/d/1rIkCjvSGQd4b-haedEkLkd7pbJM5hiel/view?usp=drive_link
+[test]: https://drive.google.com/file/d/1rIkCjvSGQd4b-haedEkLkd7pbJM5hiel/view?usp=drive_link	"test dataset"
 
  
 
