@@ -7,7 +7,7 @@ The resposity of the paper "G2-MonoDepth: A General Framework of Generalized Dep
 
 Python=3.8
 
-Pytorch=2.0
+Pytorch=2.0 
 
 ## Training
 
