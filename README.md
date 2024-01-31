@@ -1,8 +1,8 @@
-# G2-MonoDepth
+# T-PAMI2023: G2-MonoDepth
 
 The offical resposity of the paper :
 
-[G2-MonoDepth: A General Framework of Generalized Depth Inference from Monocular RGB+X Data](https://arxiv.org/abs/2310.15422)
+[G2-MonoDepth: A General Framework of Generalized Depth Inference from Monocular RGB+X Data](https://arxiv.org/abs/2310.15422), Haotian Wang, Meng Yang, Nanning Zheng
 
 ## Abstract
 ![function_example_副本](https://github.com/Wang-xjtu/G2-MonoDepth/assets/56944916/97775fe9-e991-4e43-a90a-2a0a80e54aae)
