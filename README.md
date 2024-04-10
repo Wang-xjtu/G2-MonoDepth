@@ -1,4 +1,4 @@
-# T-PAMI2023: G2-MonoDepth
+# T-PAMI2024: G2-MonoDepth
 
 The offical resposity of the paper :
 
