@@ -34,14 +34,16 @@ python test.py
 ## Citation
 
 ```
-@misc{wang2023g2monodepth,
-      title={G2-MonoDepth: A General Framework of Generalized Depth Inference from Monocular RGB+X Data}, 
-      author={Haotian Wang and Meng Yang and Nanning Zheng},
-      year={2023},
-      eprint={2310.15422},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
+@ARTICLE{10373158,
+  author={Wang, Haotian and Yang, Meng and Zheng, Nanning},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={G2-MonoDepth: A General Framework of Generalized Depth Inference From Monocular RGB+X Data}, 
+  year={2024},
+  volume={46},
+  number={5},
+  pages={3753-3771},
+  keywords={Task analysis;Data models;Estimation;Training;Semantics;Pipelines;Service robots;Robot;unified model;generalization;depth estimation;depth completion;depth enhancement},
+  doi={10.1109/TPAMI.2023.3346466}}
 ```
 
 
