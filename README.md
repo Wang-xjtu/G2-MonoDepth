@@ -30,15 +30,15 @@ Pytorch=2.0
 
 ```
 └── RGBD_Datasets
- └── Dataset1
-     ├── rgb
-     │   ├── file1.png
-     │   ├── file2.png
-     │   └── ...
-     └── depth
-         ├── file1.png
-         ├── file2.png
-         └── ...
+ ├── Dataset1
+ │   ├── rgb
+ │   │   ├── file1.png
+ │   │   ├── file2.png
+ │   │   └── ...
+ │   └── depth
+ │       ├── file1.png
+ │       ├── file2.png
+ │       └── ...
  └── Dataset2
      ├── rgb
      │   ├── file1.png
@@ -56,10 +56,10 @@ Pytorch=2.0
 
 ```
 └── Hole_Datasets
- └── Dataset1
-     ├── file1.png
-     ├── file2.png
-     └── ...
+ ├── Dataset1
+ │   ├── file1.png
+ │   ├── file2.png
+ │   └── ...
  └── Dataset2
      ├── file1.png
      ├── file2.png
