@@ -70,7 +70,7 @@ Pytorch=2.0
 
 #### Start your training
 
-1. Run train.py
+1. Run `train.py`
 
 ```
 python train.py
@@ -84,7 +84,7 @@ python train.py
 
 2. Download and unzip [test dataset](https://drive.google.com/file/d/1rIkCjvSGQd4b-haedEkLkd7pbJM5hiel/view?usp=drive_link) to `./Test_Datasets`
 
-3. Run` test.py`
+3. Run `test.py`
 
 ```python
 python test.py
