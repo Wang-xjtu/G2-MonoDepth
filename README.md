@@ -8,7 +8,7 @@
 
 ## News
 
-- Training code is released! 17/05/2024
+- Training code is released! `17/05/2024`
 
 ## Abstract
 
