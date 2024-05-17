@@ -50,7 +50,7 @@ Pytorch=2.0
          └── ...    
 ```
 
-**Notably:** `depth` should be stored in 16bit data. Specifically, depth maps are normalized by `depth/max_depth*65535` , where `max_depth` is `20`(m) for indoor dataset and `100`(m) for outdoor dataset. We release the [UnrealCV](https://drive.google.com/file/d/1svV_j8IwjH1fcF4iDtAAh4MRw0Ig00X-/view?usp=drive_link) dataset as one example.
+**Notably:** `depth` should be stored in 16-bit data. Specifically, depth maps are normalized by `depth/max_depth*65535`, where `max_depth` is `20`(m) for indoor dataset and `100`(m) for outdoor dataset. We release the [UnrealCV](https://drive.google.com/file/d/1svV_j8IwjH1fcF4iDtAAh4MRw0Ig00X-/view?usp=drive_link) dataset as one example.
 
 2. save your hole datasets in `./Hole_Datasets`
 
@@ -90,7 +90,7 @@ python train.py
 python test.py
 ```
 
-**Notably:** `gt` in test data are also stored in 16bit data. Specifically, depth maps are normalized by `gt/max_depth*65535` , where `max_depth` is `20`(m) for indoor dataset and `100`(m) for outdoor dataset.
+**Notably:** `gt` in test data are also stored in 16-bit data. Specifically, depth maps are normalized by `gt/max_depth*65535`, where `max_depth` is `20`(m) for indoor dataset and `100`(m) for outdoor dataset.
 
 ## Citation
 
